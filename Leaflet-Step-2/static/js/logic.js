@@ -1,6 +1,6 @@
 
 var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
-var TectonicPlatesGeoJSON = "GeoJSON/PB2002_boundaries.json";
+var TectonicPlatesGeoJSON = "../GeoJSON/PB2002_boundaries.json";
 
 
 // Perform a GET request to the query URL
